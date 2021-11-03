@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timinger_Cosmin-Ianis_Lab5", "Timinger_Cosmin-Ianis_Lab5.csproj", "{E58F5A86-7600-4B18-9EFD-707C4E6A3DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{D923D2FE-8E41-4BE7-9730-0E679C2798B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58F5A86-7600-4B18-9EFD-707C4E6A3DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58F5A86-7600-4B18-9EFD-707C4E6A3DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58F5A86-7600-4B18-9EFD-707C4E6A3DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58F5A86-7600-4B18-9EFD-707C4E6A3DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D923D2FE-8E41-4BE7-9730-0E679C2798B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D923D2FE-8E41-4BE7-9730-0E679C2798B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D923D2FE-8E41-4BE7-9730-0E679C2798B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D923D2FE-8E41-4BE7-9730-0E679C2798B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B308455C-485F-4127-9CBC-E5E3D6627040}
+	EndGlobalSection
+EndGlobal
